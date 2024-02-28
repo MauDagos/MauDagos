@@ -2,7 +2,7 @@
 
 😄 My name is Mauro.
 
-🔭 I'm currently working as a **Software Engineer** at [RavenPack](https://www.ravenpack.com/), primarily hacking in **Common Lisp**.
+🔭 I'm currently working as a **Software Engineer** at [RavenPack](https://www.ravenpack.com/), primarily hacking in **Common Lisp** and **Python**.
 
 📫 You can reach me through GitHub or through:
 
