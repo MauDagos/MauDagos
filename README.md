@@ -4,6 +4,8 @@
 
 🔭 I'm currently working as a **Software Engineer** at [RavenPack](https://www.ravenpack.com/), primarily hacking in 👽 **Common Lisp** and 🐍 **Python**.
 
+🤓 On my spare time, I'm writing 🦀 **Rust**.
+
 📫 You can reach me through GitHub or through:
 
 <a href="https://www.linkedin.com/in/mauro-dagostino/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
